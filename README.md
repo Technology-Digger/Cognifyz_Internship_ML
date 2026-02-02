@@ -26,7 +26,6 @@ Cognifyz_Internship_ML/
 ├── Task4/   → Location-Based Analysis (Completed)  
 ├── Task1/   → To be added  
 ├── Task2/   → To be added  
-│
 ├── README.md  
 └── LICENSE  
 
@@ -53,24 +52,11 @@ The remaining selected tasks will be added to the repository as the internship p
 
 ---
 
-## Tools and Technologies Used
-
-- Python  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Jupyter Notebook  
-
----
-
 ## Learning Outcomes
 
 Through the completion of these tasks, the internship emphasizes:
 
 - Working with real-world datasets  
-- Data cleaning and preprocessing  
-- Exploratory data analysis  
-- Data visualization and insight generation  
 - Structuring and documenting analytical projects  
 
 ---
